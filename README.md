@@ -19,6 +19,7 @@ Mengubah model, controller, dan view untuk menampilkan kategori pada artikel.
 Menambahkan fitur seperti pencarian artikel berdasarkan kategori dan menampilkan kategori di halaman depan.
 
 Memodifikasi View: View diubah agar data kategori ditampilkan bersama artikel, baik di halaman depan maupun di halaman admin.
+<img width="1365" height="726" alt="image" src="https://github.com/user-attachments/assets/3b4de24b-dd13-42cc-86b8-956bf7e39a1f" />
 <img width="1365" height="729" alt="image" src="https://github.com/user-attachments/assets/929b54ee-546b-4421-8b12-9e4b8ad028cb" />
 <img width="1365" height="728" alt="image" src="https://github.com/user-attachments/assets/380377f0-e4ca-4269-8aa4-60059c0b3c64" />
 <img width="1365" height="727" alt="image" src="https://github.com/user-attachments/assets/1d2453b9-6287-447b-ac08-25fa3d6f5734" />
