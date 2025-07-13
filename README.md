@@ -8,15 +8,15 @@ Menambahkan input file pada form di tampilan untuk memungkinkan pengguna meng-up
 ![image](https://github.com/user-attachments/assets/cc19dd32-6de9-4ec0-bd52-caeb0140f37f)
 
 ----------------------------------------------------------PRAKTIKUM 7-------------------------------------------------------------------
-Membuat Tabel Kategori: Tabel baru kategori dibuat untuk menyimpan data kategori artikel.
+Modul Praktikum 7 mengajarkan cara membuat relasi antar tabel di database menggunakan CodeIgniter 4. Fokus utama adalah pada relasi One-to-Many, seperti menghubungkan tabel artikel dengan kategori. Praktikum ini mencakup langkah-langkah berikut:
 
-Mengubah Tabel Artikel: Menambahkan kolom id_kategori pada tabel artikel untuk membentuk relasi dengan tabel kategori.
+Membuat tabel kategori dan menambahkannya sebagai foreign key di tabel artikel.
 
-Membuat Model Kategori: Model KategoriModel dibuat untuk berinteraksi dengan tabel kategori.
+Menggunakan Query Builder untuk melakukan join antar tabel dan menampilkan data artikel beserta kategori.
 
-Memodifikasi Model Artikel: Model ArtikelModel dimodifikasi dengan menambahkan metode getArtikelDenganKategori() untuk mengambil data artikel beserta nama kategorinya menggunakan join.
+Mengubah model, controller, dan view untuk menampilkan kategori pada artikel.
 
-Modifikasi Controller Artikel: Controller Artikel.php diubah untuk menggunakan model baru dan menampilkan artikel yang telah bergabung dengan kategori.
+Menambahkan fitur seperti pencarian artikel berdasarkan kategori dan menampilkan kategori di halaman depan.
 
 Memodifikasi View: View diubah agar data kategori ditampilkan bersama artikel, baik di halaman depan maupun di halaman admin.
 <img width="1365" height="729" alt="image" src="https://github.com/user-attachments/assets/929b54ee-546b-4421-8b12-9e4b8ad028cb" />
