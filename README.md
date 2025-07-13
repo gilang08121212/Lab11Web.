@@ -7,3 +7,9 @@ Menambahkan input file pada form di tampilan untuk memungkinkan pengguna meng-up
 ![image](https://github.com/user-attachments/assets/bc8a59a3-506c-41f0-a61a-df01f4085104)
 ![image](https://github.com/user-attachments/assets/cc19dd32-6de9-4ec0-bd52-caeb0140f37f)
 
+----------------------------------------------------------PRAKTIKUM 7-------------------------------------------------------------------
+<img width="1365" height="729" alt="image" src="https://github.com/user-attachments/assets/929b54ee-546b-4421-8b12-9e4b8ad028cb" />
+<img width="1365" height="728" alt="image" src="https://github.com/user-attachments/assets/380377f0-e4ca-4269-8aa4-60059c0b3c64" />
+
+
+
